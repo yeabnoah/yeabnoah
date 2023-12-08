@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN STACK, BLOCKCHAIN**
 
-- 💬 Ask me about **React,Next,Html,css,javascript,Typescript,Tailwind-css,Frontend development**
+- 💬 Ask me about **React Native, React js,Next js,Html,css,javascript,Typescript,Node js ,Express, Backend development, Api development, full stack development, Tailwind-css,Frontend development**
 
 - 📫 How to reach me **yeabnoah5@gmail.com**
 
