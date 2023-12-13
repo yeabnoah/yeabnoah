@@ -1,13 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Yeabsra Ashebir</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate Fullstack web, Mobile and dessktop developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeabnoah&label=Profile%20views&color=0e75b6&style=flat" alt="yeabnoah" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK, BLOCKCHAIN**
+- 🌱 I’m currently learning **DevOps**
+- skilled in making scalable and seamless fullstack projects
 
 - 💬 Ask me about **React Native, React js,Next js,Html,css,javascript,Typescript,Node js ,Express, Backend development, Api development, full stack development, Tailwind-css,Frontend development**
-
+- working on an App called NERD-SPACE - more on https://t.me/selfmadecoder
+  
 - 📫 How to reach me **yeabnoah5@gmail.com**
 
 - ⚡ Fun fact **I am self taught developer**
