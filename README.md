@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yeabsra Ashebir{ Tech Nerd }</h1>
 <h3 align="center">A passionate Fullstack web and Mobile developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg">
+<!-- <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeabnoah&label=Profile%20views&color=0e75b6&style=flat" alt="yeabnoah" /> </p>
 
 - 🌱 I’m currently learning **DevOps**
