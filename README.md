@@ -113,6 +113,9 @@
      <td align="center">
        <img alt="Laravel" height=64px src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
      </td> 
+     <td align="center">
+       <img alt="chatGpt" height=64px src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg">
+     </td> 
    </tr>
 
  </table>
