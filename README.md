@@ -52,8 +52,7 @@
      </td>
    </tr>
 </table>
- 
- 
+
 <h4> programming languages</h4>
 
 <table>
