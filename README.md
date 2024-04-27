@@ -26,8 +26,44 @@
 
 
   
-<h2> Technologies I like to work with ❤️</h2>
+<h2> some of the technologies I work with ❤️</h2>
+
+<h4> programming languages</h4>
  <table width="100% height="100%" align="center">
+  <tr>
+      <td>
+        <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+     </td>
+     <td>
+      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+     </td>
+          <td align="center">
+       <img alt="Next js" height=64px src= "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+     </td>
+      <td align="center">
+      <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    </td>
+          <td align="center">
+       <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
+     </td> 
+    <td>
+        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+     </td>
+     <td align="center">
+      <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+    </td>
+     <td align="center">
+       <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
+     </td>
+     <td align="center">
+       <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
+     </td> 
+      <td align="center">
+       <img alt="Node Js" height=64px src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+     </td> 
+   </tr>
+   <tr>
+<h4> Frameworks / Libraries </h4>
    <tr>
       <td>
         <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
