@@ -49,9 +49,6 @@
     <td>
         <img alt="PHP" height=64px src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
      </td>
-    
-   </tr>
-   <tr>
    </tr>
  </table>
  
