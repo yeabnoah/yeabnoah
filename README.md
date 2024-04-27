@@ -81,6 +81,9 @@
       <td align="center">
        <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
      </td> 
+    <td>
+     <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+    </td>
    </tr>
    <tr>
           <td align="center">
