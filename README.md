@@ -38,29 +38,18 @@
       <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
      </td>
           <td align="center">
-       <img alt="Next js" height=64px src= "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+       <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/python-5.svg">
      </td>
       <td align="center">
-      <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+      <img alt="Go-lang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
     </td>
           <td align="center">
-       <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
+       <img alt="Dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg">
      </td> 
     <td>
-        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+        <img alt="PHP" height=64px src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
      </td>
-     <td align="center">
-      <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
-    </td>
-     <td align="center">
-       <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
-     </td>
-     <td align="center">
-       <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
-     </td> 
-      <td align="center">
-       <img alt="Node Js" height=64px src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-     </td> 
+    
    </tr>
    <tr>
    </tr>
