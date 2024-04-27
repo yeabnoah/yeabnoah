@@ -53,7 +53,7 @@
    </tr>
 </table>
 
-<h4> Frameworks </h4>
+<h4> Technologies [ Frameworks && tools ] </h4>
 
 <table>
    <tr>
