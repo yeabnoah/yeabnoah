@@ -12,7 +12,7 @@
 
 
 
-<h4>👋 Hi there! I'm Yeabsra 💇‍♂️, a self-taught web and mobile developer from Ethiopia. I like making cool stuff with code, using languages like Typescript/Javascript, Python, and Rest Framework. Always learning new things in tech. When I'm not coding, I enjoy soaking up Ethiopian culture. Let's connect and build awesome stuff together! <h4>
+<h4>👋 Hello! I'm Yeabsra 💇‍♂️, a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
