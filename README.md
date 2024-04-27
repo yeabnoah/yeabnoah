@@ -53,16 +53,12 @@
    </tr>
 </table>
 
-<h4> programming languages</h4>
+<h4> Frameworks </h4>
 
 <table>
    <tr>
-      <td>
-        <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-     </td>
-     <td>
-      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-     </td>
+     
+     
           <td align="center">
        <img alt="Next js" height=64px src= "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
      </td>
