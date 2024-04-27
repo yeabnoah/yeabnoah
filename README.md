@@ -79,7 +79,7 @@
        <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
      </td> 
       <td align="center">
-       <img alt="Node Js" height=64px src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+       <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
      </td> 
    </tr>
    <tr>
