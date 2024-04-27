@@ -120,7 +120,7 @@
 
 <p>
   <a href="mailto:naz.yeasin@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="t.me/technerd345" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-42e35f?style=flat-square&logo=Telegram&logoColor=white" /></a>
+  <a href="t.me/technerd345" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yeabsra-ashebir-tech-nerd-8a3a80267/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
 
