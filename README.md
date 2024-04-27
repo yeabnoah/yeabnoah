@@ -57,8 +57,6 @@
 
 <table>
    <tr>
-     
-     
           <td align="center">
        <img alt="Next js" height=64px src= "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
      </td>
