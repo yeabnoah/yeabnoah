@@ -99,7 +99,7 @@
        <img alt="Firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
      </td>   
     <td align="center">
-       <img alt="sql" height=64px src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg>
+       <img alt="my-sql" height=64px src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg">
      </td> 
        <td align="center">
        <img alt="GraphQL" height=64px src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg">
