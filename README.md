@@ -84,6 +84,9 @@
     <td>
      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
     </td>
+    <td>
+     <img alt="shad-cn" height=64px src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000">
+    </td>
    </tr>
    <tr>
           <td align="center">
