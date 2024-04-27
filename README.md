@@ -146,6 +146,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=Tikus-News-Mobile_app" />
 </a>
 
+<a href="https://github.com/yeabnoah/Electron_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=Electron_Project" />
+</a>
+
+
+
 
 <br>
 <br>
