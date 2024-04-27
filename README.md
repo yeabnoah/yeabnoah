@@ -77,16 +77,16 @@
        <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
      </td> 
        <td align="center">
-       <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+       <img alt="GraphQL" height=64px src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg">
      </td> 
        <td align="center">
        <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
      </td>  
     <td align="center">
-       <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+       <img alt="Socket-io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
      </td> 
      <td align="center">
-       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+       <img alt="Laravel" height=64px src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
      </td> 
    </tr>
 
