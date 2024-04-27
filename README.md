@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabsra-ashebir-tech-nerd-8a3a80267/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:yeabnoah5@gmail.com)
-![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=yeabnoah&color=brightgreen&style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/technerd345)
 ![Channel](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TechNerd556)
@@ -103,18 +103,13 @@
  
  
 <h2> My Projects 📁</h2>
-<a href="https://github.com/yeazin/Movement-Pass-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
+<a href="https://github.com/yeabnoah/Nerdspace_codebase">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=nerdspace_codebase" />
 </a>
-<a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Multi-Authors-advanced-Django-Blog" />
+<a href="https://github.com/yeabnoah/Anton_project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=anton_bot" />
 </a>
- <a href="https://github.com/yeazin/Stackoverflow-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Stackoverflow-Clone" />
-</a>
- <a href="https://github.com/yeazin/Zooming-cls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
-</a>
+
 
 <br>
 <br>
@@ -125,8 +120,8 @@
 
 <p>
   <a href="mailto:naz.yeasin@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="wa.me/01672834142" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yeazin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="t.me/technerd345" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-42e35f?style=flat-square&logo=Telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yeabsra-ashebir-tech-nerd-8a3a80267/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
 
 
@@ -136,7 +131,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 <!--
-**yeazin/yeazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yeabnoah/yeabnoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -148,6 +143,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
+<a href="https://github.com/yeabnoah/stargazers"><img src="https://img.shields.io/github/stars/yeabnoah" alt="Stars Badge"/></a>
 
 -->
