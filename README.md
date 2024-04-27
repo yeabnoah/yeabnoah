@@ -54,7 +54,7 @@
    <tr>
    </tr>
  </table>
- <br />
+ <br>
 <h4> Frameworks / Libraries </h4>
 <table>
    <tr>
