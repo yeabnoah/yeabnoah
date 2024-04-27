@@ -63,7 +63,10 @@
      </td> 
    </tr>
    <tr>
+   </tr>
+ </table>
 <h4> Frameworks / Libraries </h4>
+<table>
    <tr>
       <td>
         <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
