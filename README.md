@@ -142,6 +142,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=anton_bot" />
 </a>
 
+<a href="https://github.com/yeabnoah/Tikus-News-Mobile_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=Tikus-News-Mobile_app" />
+</a>
+
 
 <br>
 <br>
