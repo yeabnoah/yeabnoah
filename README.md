@@ -12,7 +12,7 @@
 
 
 
-<h4>Hi I am Yeabsra 💇‍♂️ , a passoniate Fullstack web and mobile deveolper from Ethiopia.I am a Self-taught software Developer. I have a profound knowledge in Typescript/Javascript, Javascript & Python and Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>👋 Hi there! I'm Yeabsra 💇‍♂️, a self-taught web and mobile developer from Ethiopia. I like making cool stuff with code, using languages like Typescript/Javascript, Python, and Rest Framework. Always learning new things in tech. When I'm not coding, I enjoy soaking up Ethiopian culture. Let's connect and build awesome stuff together! <h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
