@@ -29,7 +29,8 @@
 <h2> some of the technologies I work with ❤️</h2>
 
 <h4> programming languages</h4>
- <table width="100%" height="100%" align="left">
+ 
+ <table width="100%" height="100%">
   <tr>
       <td>
         <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
@@ -50,7 +51,7 @@
         <img alt="PHP" height=64px src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
      </td>
    </tr>
- </table>
+</table>
  
  
 <h4> programming languages</h4>
