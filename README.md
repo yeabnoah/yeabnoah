@@ -4,11 +4,14 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabsra-ashebir-tech-nerd-8a3a80267/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:yeabnoah5@gmail.com)
-![](https://komarev.com/ghpvc/?username=yeabnoah&color=brightgreen&style=for-the-badge)
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/technerd345)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TechNerd556)
+<div align="center">
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabsra-ashebir-tech-nerd-8a3a80267/)
+ [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:yeabnoah5@gmail.com)
+ ![](https://komarev.com/ghpvc/?username=yeabnoah&color=brightgreen&style=for-the-badge)
+ [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/technerd345)
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TechNerd556)
+</div>
+
 
 <h4>Hi I am Yeabsra 💇‍♂️ , a passoniate Fullstack web and mobile deveolper from Ethiopia.I am a Self-taught software Developer. I have a profound knowledge in Typescript/Javascript, Javascript & Python and Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
 
