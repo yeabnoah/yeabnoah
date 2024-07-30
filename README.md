@@ -12,7 +12,7 @@
 
 
 
-<h4 style="font-size : 20px;">👋 Hello! I'm Yeabsra 💇‍♂️, a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!<h4>
+<h4 style="font-size : 20px;">👋 Hello! I'm Yeabsra , a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
