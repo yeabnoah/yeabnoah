@@ -45,12 +45,6 @@
       <td align="center">
       <img alt="Go-lang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
     </td>
-          <td align="center">
-       <img alt="Dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg">
-     </td> 
-    <td>
-        <img alt="PHP" height=64px src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
-     </td>
    </tr>
 </table>
 
