@@ -128,27 +128,6 @@
 
  
  
-<h2> My Projects 📁</h2>
-<a href="https://github.com/yeabnoah/Nerdspace_codebase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=nerdspace_codebase" />
-</a>
-<a href="https://github.com/yeabnoah/Anton_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=anton_bot" />
-</a>
-
-<a href="https://github.com/yeabnoah/Tikus-News-Mobile_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=Tikus-News-Mobile_app" />
-</a>
-
-<a href="https://github.com/yeabnoah/Electron_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeabnoah&theme=react&repo=Electron_Project" />
-</a>
-
-
-
-
-<br>
-<br>
 
 
 <!--
