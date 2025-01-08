@@ -77,9 +77,6 @@
        <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
      </td> 
     <td>
-     <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
-    </td>
-    <td>
      <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
     </td>
    </tr>
@@ -107,12 +104,6 @@
      </td>  
     <td align="center">
        <img alt="Socket-io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
-     </td> 
-     <td align="center">
-       <img alt="Laravel" height=64px src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-     </td> 
-     <td align="center">
-       <img alt="chatGpt" height=64px src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg">
      </td> 
    </tr>
 
