@@ -90,9 +90,7 @@
         <td align="center">
        <img alt="Mongo Db" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
      </td>
-    <td align="center">
-       <img alt="Firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-     </td>   
+  
     <td align="center">
        <img alt="my-sql" height=64px src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg">
      </td> 
