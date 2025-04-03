@@ -34,7 +34,7 @@
     </td>
    </tr>
 </table>
-
+//
 <h4> Technologies [ Frameworks && tools ] </h4>
 
 <table>
