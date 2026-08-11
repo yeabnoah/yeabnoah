@@ -2,7 +2,7 @@
 
 Full-stack engineer · Founder · AI systems architect
 
-I build end-to-end products across web, mobile, and AI — from database schema design to AI orchestration to App Store deployment. 6+ years of shipping. MVPs in days or weeks, not months.
+I build end-to-end products across web, mobile, and AI — from database schema design to AI orchestration to App Store deployment. 4+ years of shipping. MVPs in days or weeks, not months.
 
 **Currently building:**
 - [Life OS](https://life.roggy.site) — a personal AI operating system
