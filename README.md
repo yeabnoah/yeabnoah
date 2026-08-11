@@ -1,4 +1,4 @@
-# Yeabsra Ashebir (Yeab Noah)
+# Yeabsra Ashebir (Yeab)
 
 Full-stack engineer · Founder · AI systems architect
 
