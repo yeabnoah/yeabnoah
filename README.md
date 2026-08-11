@@ -29,15 +29,6 @@ I build end-to-end products across web, mobile, and AI — from database schema 
 - **Databases:** PostgreSQL, MongoDB, Redis, Prisma, Supabase, Firebase
 - **DevOps:** Docker, Linux, Nginx, GitHub Actions, AWS/GCP, Vercel, Turborepo
 
-## Background
-
-- Former Google Developer Group (GDG) Lead at Addis Ababa University
-- Active hackathon participant — shipping products under pressure
-
-## How I work
-
-Learn by shipping. Simplicity over clever abstractions. AI as an ally, not a crutch.
-
 ## Links
 
 [GitHub](https://github.com/yeabnoah) · [X](https://x.com/yeab2k) · [LinkedIn](https://www.linkedin.com/in/yeabsra-ashebir-8a3a80267/) · [life.roggy.site](https://life.roggy.site) · yeabnoah5@gmail.com
