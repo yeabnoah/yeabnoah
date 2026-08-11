@@ -4,7 +4,9 @@ Full-stack engineer · Founder · AI systems architect
 
 I build end-to-end products across web, mobile, and AI — from database schema design to AI orchestration to App Store deployment. 6+ years of shipping. MVPs in days or weeks, not months.
 
-**Currently building:** [Life OS](https://life.roggy.site) — a personal AI operating system that integrates school, work, finance, health, and relationships into one intelligent decision-making system. Agentic architecture with heartbeat orchestration, memory systems, and long-running autonomous workflows. Hono.js · LangChain · TypeScript · PostgreSQL.
+**Currently building:**
+- [Life OS](https://life.roggy.site) — a personal AI operating system
+- [Rize](https://rize.roggy.site) - a social co-working and tracking software for individuals
 
 ## Projects
 
@@ -17,8 +19,6 @@ I build end-to-end products across web, mobile, and AI — from database schema 
 | [Batman Boilerplate](https://batman.roggy.site) | Production-ready boilerplate for shipping business ideas in hours |
 | Lewi AI | Personal AI stylist using computer vision and recommendations for outfit decisions |
 | NerdSpace | Social platform for finding your tribe, with real-time features on Next.js |
-| Frame | Markdown-based, developer-first portfolio builder |
-| React Native UI Library | Themeable component and design-system library for consistent mobile apps |
 
 ## Stack
 
