@@ -12,7 +12,7 @@ I build end-to-end products across web, mobile, and AI — from database schema 
 
 | Project | What it is |
 |---|---|
-| [Roggy AI](https://roggy.site) | No-code platform for custom ChatGPT-style chatbots, 1000+ users. Hosting, scaling, and payments handled end-to-end |
+| [Roggy AI](https://roggy.site) | No code platform for custom ChatGPT style chatbots/coaches, 1000+ users. Hosting, scaling, and payments handled end to end |
 | [Pine AI](https://pine.roggy.site) | AI-powered data collection platform with intelligent pipelines and scalable backend infrastructure |
 | Xenon AI | AI-powered video editor for media generation and editing workflows |
 | Lewi AI | Personal AI stylist using computer vision and recommendations for outfit decisions |
