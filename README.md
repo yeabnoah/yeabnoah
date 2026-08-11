@@ -12,13 +12,11 @@ I build end-to-end products across web, mobile, and AI — from database schema 
 
 | Project | What it is |
 |---|---|
-| [Rize AI](https://rize.roggy.site) | Social lock-in tool — focus on your goals alongside friends and keep each other accountable |
 | [Roggy AI](https://roggy.site) | No-code platform for custom ChatGPT-style chatbots, 1000+ users. Hosting, scaling, and payments handled end-to-end |
 | [Pine AI](https://pine.roggy.site) | AI-powered data collection platform with intelligent pipelines and scalable backend infrastructure |
 | Xenon AI | AI-powered video editor for media generation and editing workflows |
-| [Batman Boilerplate](https://batman.roggy.site) | Production-ready boilerplate for shipping business ideas in hours |
 | Lewi AI | Personal AI stylist using computer vision and recommendations for outfit decisions |
-| NerdSpace | Social platform for finding your tribe, with real-time features on Next.js |
+
 
 ## Stack
 
